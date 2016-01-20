@@ -1,0 +1,159 @@
+/* CSS Injection for Help Scout page */
+
+.navbar-inner
+{ background:#fff;
+  height:65px;
+}
+
+.navbar .nav a {
+  position:relative; top:-1px;
+  font-weight:300;
+  text-transform:uppercase;
+  letter-spacing:2px;
+}
+
+.navbar .brand {
+  width: 150px
+}
+
+#searchBar .search-query {
+  border:white 1px;
+}
+
+#docsSearch {
+  background:url("https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/7f62d205-990c-4d7d-aa22-2de74f99c007.png");
+  background-size: 100%;
+  background-position:center;
+  height:300px;
+}
+
+#docsSearch  h1 {
+  color:#fff;
+  font-size:30px;
+  font-weight: 200;
+}
+
+#searchBar button {
+  background:#22a5dd;
+  border:1px solid #fff;
+}
+
+#searchBar button:hover { background:#22a5dd; }
+
+/* Category Style */
+
+.category-list .category:hover {
+  background: #f0f0f5;
+}
+
+.category-list h3 {
+  padding: 200px 0px 0px;
+}
+
+.collection-category h2 a{
+  color: #333;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.3em;
+}
+
+/* Category images */
+
+#category-4 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/1b9b6724-006c-4a11-baa7-a4b71adfe432.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-6 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/8735559d-c247-462e-8c8f-f1362ae0b000.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-22 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/1c07d792-2ff6-4193-b465-a72c22a6bb61.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-24 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/f3ba7379-c97a-4559-a5f3-8292cdbd9c9f.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-26 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/afac6957-003a-44a4-b367-b84efff4255e.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-36 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/c10def89-fd2e-4263-875e-8f89c608a089.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-37 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/c7173ef2-ad38-4893-a17f-8c2f3367f52d.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-38 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/58886e5d-2de4-4fe1-98f7-49902ce18f0c.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-42 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/d59d86d8-d33c-4cb3-8262-4747ae62e516.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+#category-116 {
+  background-image: url(https://gallery.mailchimp.com/8e5c4951ae9407eb1a1643d42/images/78ea296f-11da-4953-98eb-3a30179dcf9f.png);
+  background-size: 50%;
+  background-position: 50% 20%;
+  background-repeat: no-repeat;
+}
+
+/* Contact us form */
+
+#contactModal h2 {
+  background:#22a5dd;
+  color:#fff;
+  font-weight: 300;
+}
+
+.icon-close:before, .featherlight-close-icon:before {
+  color:#fff;
+}
+
+/* Category pages */
+
+#sidebar .nav-list .active a {
+  color: #22a5dd;
+  font-weight: 400;
+}
+
+#sidebar .nav-list a:hover {
+  color: #22a5dd;
+  font-weight: 400;
+}
+
+#sidebar .nav-list .active a:hover {
+  color: #22a5dd;
+  font-weight: 400;
+}
